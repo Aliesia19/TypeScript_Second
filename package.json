@@ -1,0 +1,24 @@
+{
+  "name": "typescript_second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliesia19/TypeScript_Second.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aliesia19/TypeScript_Second/issues"
+  },
+  "homepage": "https://github.com/Aliesia19/TypeScript_Second#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
